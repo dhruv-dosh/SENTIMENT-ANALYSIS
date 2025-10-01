@@ -72,3 +72,5 @@ You need Python 3.x installed.
 -----
 
 **Author:** \ Dhruv Doshi.
+
+ *Created and maintained by [dhruv-doshi](https://github.com/dhruv-dosh)*
